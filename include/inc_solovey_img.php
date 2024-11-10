@@ -1,0 +1,1 @@
+<a class="foot_salavey" href=""><img src="<?= SITE_TEMPLATE_PATH ?>/img/salavey.png" alt=""/></a>

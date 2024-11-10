@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ftp://romanoz0.beget.tech:21" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ftp://romanoz0.beget.tech:21">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="https://6.shurikromanov.site/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/upload" />
+            <excludedPath path="/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
