@@ -33,3 +33,18 @@ $this->setFrameMode(true);
 <?endforeach;?>
 
 </div>
+
+<?if($arParams["DISPLAY_BOTTOM_PAGER"]):?>
+
+        <a class="ajax-pager-link more_bt" href="">Показать еще 10</a>
+        <div class="number_bl">
+            <a class="prev" href=""></a>
+            <a href="">1</a>
+            <a class="active" href="">2</a>
+            <a href="">3</a>
+            <a href="">4</a>
+            <span>...</span>
+            <a href="">9</a>
+            <a class="next" href=""></a>
+        </div>
+<?endif;?>
